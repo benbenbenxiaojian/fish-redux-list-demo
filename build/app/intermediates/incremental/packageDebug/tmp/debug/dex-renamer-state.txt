@@ -1,4 +1,4 @@
-#Tue Mar 19 17:29:49 CST 2019
-base.0=/Users/nicole/code/apps/flutter_app/build/app/intermediates/transforms/dexMerger/debug/0
+#Mon Mar 25 13:57:28 CST 2019
+base.0=/Users/nicole/code/apps/fish_redux_demo/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

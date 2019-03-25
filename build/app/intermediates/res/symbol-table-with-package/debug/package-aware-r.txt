@@ -1,4 +1,0 @@
-com.hellobike.nicole.flutter_app
-drawable launch_background
-mipmap ic_launcher
-style LaunchTheme

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nicole/code/apps/flutter_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nicole/code/apps/fish_redux_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/nicole/code/apps/flutter_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nicole/code/apps/fish_redux_demo/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
